@@ -1,6 +1,6 @@
 # Hello-World
 
-{Description}
+Description
 This program runs a simple but powerful function known as the print statement in Python to display a message to the user. 
 
 The purpose for creating this software:
